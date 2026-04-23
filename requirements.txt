@@ -1,0 +1,10 @@
+﻿# Author: Hoda Alem
+# Date: November 2025
+# Context: Part of PhD research for a PhD in Environmental Design and Planning
+#          at Myers-Lawson School of Construction, Virginia Tech, Blacksburg, VA.
+
+openai>=1.0.0
+openpyxl>=3.1.0
+matplotlib>=3.7.0
+numpy>=1.24.0
+python-dotenv>=1.0.0
